@@ -1,0 +1,15 @@
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.exe
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.deps.json
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.runtimeconfig.json
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.dll
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\bin\Debug\net6.0\TwoDimensionalArrays.pdb
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.AssemblyInfo.cs
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.dll
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\refint\TwoDimensionalArrays.dll
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.pdb
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\TwoDimensionalArrays.genruntimeconfig.cache
+C:\Users\rusla\source\repos\TwoDimensionalArrays\TwoDimensionalArrays\obj\Debug\net6.0\ref\TwoDimensionalArrays.dll
